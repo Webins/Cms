@@ -1,0 +1,35 @@
+.card-header{
+    display: flex;
+    justify-content: center;
+}
+.new-category{
+    padding: .2rem;
+}
+
+#display-msg{
+    display:none;
+}
+
+.td-table{
+    vertical-align: baseline!important;
+}
+
+.number{
+    width: 10%;
+}
+.category{
+    width: 30%;
+}
+.creator{
+    width: 30%;
+}
+.date{
+    width: 10%;
+}
+.delete{
+    width: 10%;
+}
+
+.update{
+    width: 10%;
+}

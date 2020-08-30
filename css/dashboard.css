@@ -1,0 +1,23 @@
+.td-table{
+    vertical-align: baseline!important;
+}
+
+.number{
+    width: 5%;
+}
+.title{
+    width: 30%;
+}
+.author{
+    width: 30%;
+}
+.comments{
+    width: 15%;
+}
+.date{
+    width: 10%;
+}
+
+.details{
+    width: 10%;
+}
